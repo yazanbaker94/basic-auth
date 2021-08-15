@@ -11,3 +11,4 @@ let sequelize = new Sequelize(POSTGRES_URI);
 module.exports = {
   db: sequelize
 }
+
